@@ -4,6 +4,15 @@ A modern **3D photo gallery website template** built with **React**, **Next.js**
 
 ---
 
+## Technologies Used
+
+1. React - Frontend Library
+2. Next.js - Framework for React apps
+3. WebGL / Three.js - 3D rendering
+4. TailwindCSS - Styling framework
+
+---
+
 ## Features
 
 1. 3D scroll-based image gallery  
