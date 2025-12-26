@@ -19,15 +19,14 @@ A modern **3D photo gallery website template** built with **React**, **Next.js**
 ### Prerequisites
 
 - Node.js (v14+)  
-- npm or pnpm
+- npm 
 
 ### Steps
 
-1. Clone the repository:
-
-a) git clone = https://github.com/TheJerryZone/3D_Photography_Gallery_Template.git
-b) Navigate into the project folder = cd 3D_Photography_Gallery_Template
-c) Install dependencies = npm install 
-d) Start the development server: npm run dev
+1.  Clone the repository:
+       git clone = https://github.com/TheJerryZone/3D_Photography_Gallery_Template.git
+2.  Navigate into the project folder = cd 3D_Photography_Gallery_Template
+3.  Install dependencies = npm install 
+4.  Start the development server: npm run dev
 
 Open http://localhost:3000 to view in your browser.
